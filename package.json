@@ -1,0 +1,17 @@
+{
+  "name": "spritesmith-scss-retina-template",
+  "version": "1.0.0",
+  "description": "Template for spritesmith for scss output",
+  "main": "scss_retina.template.handlebars",
+  "repository": {
+  	"type": "git",
+  	"url": "https://github.com/pickmecoach/spritesmith-scss-retina-template.git"
+  },
+  "keywords": [
+    "csssr",
+    "spritesmith",
+    "scss"
+  ],
+  "author": "CSSSR",
+  "license": "MIT"
+}
